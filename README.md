@@ -53,6 +53,12 @@ Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up w
 ## Deploy
 You can deploy this bot anywhere.
 
+<a href="https://render.com/deploy?repo=https://github.com/ARmovie/LazyPrincess">
+
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+
+</a>
+
 
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/LazyPrincess&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
